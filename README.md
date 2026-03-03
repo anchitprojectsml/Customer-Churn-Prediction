@@ -44,6 +44,11 @@ Estimated potential annual savings: ₹60Cr+
 - churn_model.pkl
 - scaler.pkl
 - features.pkl
+- churn_model_final.pkl
+- Churn_analysis_project_1.ipynb
+- predict_churn.py
+- Requirements.txt
+  
 
   
 
