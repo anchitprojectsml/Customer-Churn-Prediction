@@ -55,6 +55,6 @@ Estimated potential annual savings: ₹60Cr+
 ---
 
 ## 📈 Future Improvements
-- Deployment as web app
+-  Production Ready Deployment as web app
 - Real-time prediction API
 
